@@ -4,8 +4,8 @@ agent
 { label ' '
 }
 tools
-{ jdk='java8'
-  maven='maven3.5'
+{ jdk 'java8'
+  maven 'maven3.5'
 }
 stages{
   stage('intialized')
